@@ -26,4 +26,4 @@
 # m h  dom mon dow   command
 
 
-* * * * * /bin/sh /home/carnivore_erection/linux_school/scripts/check_cpu.sh
+* * * * * /bin/sh /home/carnivore_erection/linux_school/scripts/check_cpu.sh # runs the script every minute
